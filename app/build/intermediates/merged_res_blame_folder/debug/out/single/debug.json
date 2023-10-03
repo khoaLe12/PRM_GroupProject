@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_racing2.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\racing2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car3_3.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car3_3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\layout_datcuoc_layout.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\layout\\datcuoc_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car2_3.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car1_3.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car1_3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_terrain.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\terrain.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car3_1.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car3_1.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_mov4.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\mov4.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car1_1.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car1_1.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car2_1.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car2_1.png"
+    },
+    {
+        "merged": "com.example.prm_teamproject_carracing.app-merged_res-28:/raw_car_sound.mp3.flat",
+        "source": "com.example.prm_teamproject_carracing.app-main-30:/raw/car_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_animation_car3.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\animation_car3.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_mov1.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\mov1.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car1_4.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car1_4.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car2_4.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car2_4.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car3_2.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car3_2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car3_4.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car3_4.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car2_2.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_car1_2.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\car1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_animation_car1.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\animation_car1.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_mov3.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\mov3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_mov2.png.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\mov2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\drawable_animation_car2.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\drawable\\animation_car2.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.prm_teamproject_carracing.app-merged_res-28:/raw_background.mp3.flat",
+        "source": "com.example.prm_teamproject_carracing.app-main-30:/raw/background.mp3"
+    },
+    {
+        "merged": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\KHOA\\.gradle\\daemon\\8.0\\com.example.prm_teamproject_carracing.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
